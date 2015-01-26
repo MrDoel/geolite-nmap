@@ -1,8 +1,8 @@
 #!/bin/bash 
 
 ####################################
-# RTSP SCANNER                     #
-#                                  #
+# Geolite Database Installer       #
+# For Nmap                         #
 # Coded by Mr.Doel                 #
 # Contact me : doel@mc-crew.or.id  #
 ####################################
